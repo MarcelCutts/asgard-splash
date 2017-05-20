@@ -3,7 +3,7 @@ html, body {
   height: 100%;
   width: 100%;
   font-family: 'Space Mono', monospace;
-  background: url(asgarddarksmall.jpg) no-repeat center center fixed;
+  background: url(asgarddark.jpg) no-repeat center center fixed;
   background-size: cover;
   margin: 0;
 }
